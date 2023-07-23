@@ -1,10 +1,30 @@
 * {
     font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-.hero {
- background-color: #1F2937;
+.hero-container {
+     background-color: #1F2937;
+     
+     
+     
 }
 .header-logo {
     font-size: 24px;
-    color: 
+    color: #F9FAF8;
+    
+}
+.nav-bar,
+.hero-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.hero-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    
+}
+.sign-up-button {
+    background-color: #3882F6;
 }
