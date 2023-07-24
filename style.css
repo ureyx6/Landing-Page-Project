@@ -66,6 +66,9 @@ a {
     margin-top: 60px;
     margin-bottom: 60px;
 }
+.information-section{
+    padding-bottom: 32px;
+}
 .information {
     color: #1f2937;
     font-size: 48px;
@@ -77,13 +80,14 @@ a {
 .card {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    align-items: center;
 }
 .card-container{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    text-align: center;
 }
 .card img{
 max-width: 200px;
