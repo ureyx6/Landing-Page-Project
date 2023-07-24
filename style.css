@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
 .hero-container {
      background-color: #1F2937;
      display: flex;
