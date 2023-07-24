@@ -14,7 +14,7 @@
      flex-direction: column;
      padding-left: 24px;
      padding-right: 24px;
-     padding-top: 8px;
+     padding-top: 16px;
      padding-bottom: 24px;
 }
 .top-header {
@@ -65,4 +65,9 @@ a {
 .header-content {
     margin-top: 60px;
     margin-bottom: 60px;
+}
+.information {
+    color: #1f2937;
+    font-size: 48px;
+    font-weight: 900;
 }
