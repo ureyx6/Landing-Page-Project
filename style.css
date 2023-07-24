@@ -124,6 +124,16 @@ font-style: normal;
 .cta-card{
     margin: 80px;
     background-color:#3882F6;
-    padding: 80px;
+    padding: 40px;
+    border-radius: 5px;
 }
-
+.double-stack-text {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.double-stack-text span{
+    font-size: 18px;
+    color: #E5E7EB;
+}
